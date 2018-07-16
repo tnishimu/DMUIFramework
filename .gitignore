@@ -1,0 +1,9 @@
+Library/
+obj/
+Temp/
+*.sln
+*.csproj
+*.userprefs
+.DS_Store
+ProjectSettings/ProjectVersion.txt
+UnityPackageManager/manifest.json
